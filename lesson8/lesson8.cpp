@@ -169,6 +169,8 @@ void Zadanie3()
         Robot r(3, 3);
         r.LEFT();
         r.LEFT();
+        r.UP();
+        r.UP();
         r.LEFT();
         r.LEFT();
     }
